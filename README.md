@@ -6,7 +6,7 @@ This is a project website highlighting our efforts for a comparative study of DN
 
 ## Related Sources
 
-- Here, you can find related papers, websites, blogs etc.
+In this section, you can find related papers, websites, blogs etc.
 
 ### Academic Papers
 - Agostinho, B. M., Pasini, F. B., Gomes, F. O., Pinto, A. S. R., & Dantas, M. A. R. (2020, December). An Approach Adopting Ethereum as a Wallet Domain Name System within the Economy of Things Context. In 2020 IEEE/ACM 13th International Conference on Utility and Cloud Computing (UCC) (pp. 176-185). IEEE.
