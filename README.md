@@ -24,7 +24,7 @@ In this section, you can find related papers, websites, blogs etc.
 - Xia, P., Wang, H., Yu, Z., Liu, X., Luo, X., Xu, G., & Tyson, G. (2022, October). **Challenges in decentralized name management: The case of ens.** In Proceedings of the 22nd ACM Internet Measurement Conference (pp. 65-82).
 
 ### Newspaper/Blog Articles
-- DESPRES, S. (2020, June 29). **DNS on Blockchain: The next evolution of domain names?. **Cybersecurity, intellectual property and domain names news. https://blog.nameshield.com/blog/2020/04/08/dns-on-blockchain-the-next-evolution-of-domain-names/
+- DESPRES, S. (2020, June 29). **DNS on Blockchain: The next evolution of domain names?.** Cybersecurity, intellectual property and domain names news. https://blog.nameshield.com/blog/2020/04/08/dns-on-blockchain-the-next-evolution-of-domain-names/
 - Toppa, S. (2023, October 9). J**PMorgan raises alarm over liquidity trend for $200 billion crypto network.** The Street. https://www.thestreet.com/crypto/markets/jpmorgan-raises-alarm-over-liquidity-trend-for-200-billion-crypto-network
 - Unstoppable Domains. (2023, November 15). **Your one-stop-shop for .com and WEB3 domains.** https://unstoppabledomains.com/blog/categories/announcements/article/unstoppable-offers-com
 
