@@ -1,4 +1,4 @@
-# Blockchain Naming - DNS
+# Investigation of the Internet Naming Systeem Evolution
 
 ## Our Goals
 
