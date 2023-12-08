@@ -1,4 +1,4 @@
-# Investigation of the Internet Naming Systeem Evolution
+# Investigation of the Internet Naming System Evolution
 
 ## Our Goals
 
